@@ -135,6 +135,12 @@ Model Export (Pickle → .sav file)
 Streamlit Web App Deployment
 ```
 
+<div align="center">
+
+![Project Workflow](ChatGPT%20Image%20Jun%2026%2C%202026%2C%2005_34_07%20PM.png)
+
+</div>
+
 ---
 
 ## 🤖 Models Trained
