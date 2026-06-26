@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
@@ -6,4 +7,14 @@ matplotlib
 seaborn
 plotly
 statsmodels
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+statsmodels
+>>>>>>> 8771bf05ba006980ddf4a844a4d446fd0023eebb
 scipy
