@@ -14,7 +14,7 @@ st.write("Enter the patient's medical information below to predict the likelihoo
 try:
     model = load_model()
 except Exception as e:
-    st.warning("⚠️ Model file 'heart_disease_model.sav' not found. Please run all cells in the Jupyter notebook first to generate and save the model.")
+    st.error(f"Actual Error:\n{e}")
     st.stop()
 
 # Inputs
